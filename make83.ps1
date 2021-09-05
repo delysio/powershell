@@ -1,4 +1,4 @@
-$inputFolder = 'c:\temp\test2\'
+$inputFolder = 'c:\temp\test1\'
 $outputFolder = 'c:\temp\test2\'
 
 # CHARS DISSALOWED IN OUTPUT FILE NAMES
